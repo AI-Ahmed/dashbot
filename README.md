@@ -1,9 +1,6 @@
 # About Dashbot
-<p align="center">
-  <img src='https://i.imgur.com/FUkeFeo.png' height="500" width="450">
-</p>
 
-> *Dashbot is an application for showing the trade in U.S. Trade Market (e.g., 4:00am to 8:00pm Eastern Time for the US market using Intraday data using [Mercury](https://github.com/mljar/mercury).*
+> *Dashbot is an application for showing the trade in U.S. Trade Market (e.g., 4:00am to 8:00pm Eastern Time for the US market using Intraday data.*
 
 ## Intra-day Data Trending
 
