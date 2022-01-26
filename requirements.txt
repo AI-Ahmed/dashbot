@@ -1,0 +1,4 @@
+mljar-mercury
+plotly
+pandas
+gunicorn
