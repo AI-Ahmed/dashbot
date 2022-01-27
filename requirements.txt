@@ -1,4 +1,5 @@
 mljar-mercury
 plotly
 pandas
+matplotlib
 gunicorn
