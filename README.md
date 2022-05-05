@@ -15,3 +15,6 @@
 
 ## Inference App
 - You can find the app in this link: https://dashbot-mercury.herokuapp.com
+
+## The article about the APP
+[Share your Notebook as a website in a couple of lines!](https://blog.devgenius.io/share-your-notebook-as-a-website-in-a-couple-of-lines-cb1e9ca2d447)
